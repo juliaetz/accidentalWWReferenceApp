@@ -1,0 +1,3 @@
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\x64\Debug\WWReferenceApp.vcxproj.AssemblyReference.cache
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\x64\Debug\WWReferenceApp.MainForm.resources
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\x64\Debug\WWReferenceApp.vcxproj.GenerateResource.cache

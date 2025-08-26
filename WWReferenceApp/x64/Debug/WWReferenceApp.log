@@ -1,0 +1,14 @@
+﻿  MainForm.cpp
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\song.h(42,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\MainForm.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\MainForm.cpp(6,15): warning C4551: function call missing argument list
+  song.cpp
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\song.h(42,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'song.cpp')
+  
+C:\Users\julia\source\repos\WWReferenceApp\WWReferenceApp\song.cpp(192,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WWReferenceApp.vcxproj -> C:\Users\julia\source\repos\WWReferenceApp\x64\Debug\WWReferenceApp.exe
